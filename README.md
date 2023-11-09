@@ -16,4 +16,9 @@
 ### Assumptions
 * I have only built the backend NodeJS API and not any frontend, based on your requirements.
 
+### Deployment
+* I have used cyclic to deploy my app.
+* I connected cyclic to my github repo.
+* You need to mention the environment variables of your project, like I mentioned the MONGO_URI.
+* Then i clicked on the deploy button, and my NodeJS app got deployed.
  ##### You can call the API routes from the deployed link: https://witty-fly-garb.cyclic.app. 
